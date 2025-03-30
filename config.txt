@@ -1,0 +1,5 @@
+# 网站监控配置文件
+# 格式: 网站名称 URL
+Gitee https://gitee.com
+Baidu https://baidu.com
+test https://nidhasiof.com
