@@ -1,5 +1,8 @@
 #!/bin/bash
 
+mkdir -p ../reports ../data
+
+
 yesterday=$(date -d "yesterday" "+%Y-%m-%d")
 nowaday=$(date "+%Y-%m-%d")
 

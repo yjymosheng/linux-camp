@@ -4,7 +4,8 @@
 
 # 清理一下每次的log嘛 ,突然发现似乎没有必要, 每次往里面添加就行了
 # rm -rf ../logs
-mkdir -p ../logs
+mkdir -p ../logs ../data
+
 
 config_file=../config.txt
 tmp_url_file=tmp_url_file
